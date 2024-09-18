@@ -49,7 +49,7 @@ PHISH_PHRASES = [
     "login",
     "sign in",
     "sign in with a different microsoft account",
-    "enter password".
+    "enter password",
     "norton",
     "password",
     "mcafee",
