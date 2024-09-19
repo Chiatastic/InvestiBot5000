@@ -58,7 +58,9 @@ PHISH_PHRASES = [
     "authorized",
     "about to expire",
     "locked for security",
-    "gift card"
+    "gift card",
+    "geek"
+    
     
 ]
 
